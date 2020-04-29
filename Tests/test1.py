@@ -20,3 +20,4 @@ def test_some_test():
     assert response.status_code == 202
     assert response.status_code == 201
     assert response.status_code == 201
+    assert response.status_code == 201
